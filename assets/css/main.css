@@ -1700,21 +1700,20 @@ header > p {
   transform: scale(1.05);
 }
 
-
 .doctor-care {
   width: 120%;
 }
 
 .doctor-care:hover {
-	transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 .pokedex {
-  width: 120%;
+  width: 130%;
 }
 
 .pokedex:hover {
-	transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 /* Button */
