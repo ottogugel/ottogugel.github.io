@@ -1692,6 +1692,18 @@ header > p {
   width: auto;
 }
 
+.ultimate-tinder-clone {
+  width: 200%;
+}
+
+.doctor-care {
+  width: 200%;
+}
+
+.pokedex {
+  width: 200%;
+}
+
 /* Button */
 
 input[type='button'],
