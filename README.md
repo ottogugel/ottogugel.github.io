@@ -1,8 +1,6 @@
 # Otto's portfolio page
 This is the git repository of my portfolio page. You can check it out [here](https://ottogugel.github.io). Big thanks to HTML5UP for the [Massively Jekyll Theme](https://iwiedenm.github.io/jekyll-theme-massively/), used as a template for this website.
 
-![](https://img.shields.io/github/stars/ottogugel/ottogugel.github.io) ![](https://img.shields.io/github/forks/ottogugel/ottogugel.github.io) ![](https://img.shields.io/github/tag/tvc95/tvc95.github.io) ![](https://img.shields.io/github/issues/ottogugel/ottogugel.github.io) ![](https://img.shields.io/github/license/tvc95/ottogugel.github.io)
-
 <!--
 Astral by HTML5 UP
 html5up.net | @ajlkn
