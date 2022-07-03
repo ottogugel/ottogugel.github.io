@@ -358,7 +358,7 @@ textarea {
 }
 
 .row > * {
-  padding: 1.25em 0 0 1.25em;
+  padding: 0.25em 0 0 1.25em;
 }
 
 .row.gtr-uniform {
